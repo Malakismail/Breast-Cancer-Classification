@@ -67,4 +67,14 @@ The performance of each model is evaluated using:
 
 An additional function compares training time along with accuracy, precision, recall, and F1-score for all models.
 
+## Contributing
+Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
 
+## Contact
+For inquiries or collaboration opportunities, please reach out to me:
+
+Name: Malak Ismail
+
+Email: malakismail706@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/malakismail0/
